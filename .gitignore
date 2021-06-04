@@ -1,8 +1,0 @@
-*.rpyc
-*.rar
-*.py
-*take.rpy
-*replace.rpy
-*.gitignore
-*__building__**
-*.bak
